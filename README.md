@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Malu's github stats](https://maria-luiza-duda.vercel.app/api?username=maria-luiza-duda)](https://github.com/maria-luiza-duda/maria-luiza-duda)
+
+![Malu's github stats](https://maria-luiza-duda.vercel.app/api?username=maria-luiza-duda&show_icons=true)
+
+![Malu's github stats](https://maria-luiza-duda.vercel.app/api?username=maria-luiza-duda&show_icons=true&theme=onedark)
+
+[![ReadMe Card](https://maria-luiza-duda.vercel.app/api/pin/?username=maria-luiza-duda&repo=maria-luiza-duda)](https://github.com/maria-luiza-duda/maria-luiza-duda)
+
+[![Top Langs](https://maria-luiza-duda.vercel.app/api/top-langs/?username=maria-luiza-duda)](https://maria-luiza-duda/maria-luiza-duda)
+
 <!--
 **maria-luiza-duda/maria-luiza-duda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
