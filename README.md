@@ -6,7 +6,7 @@ Marine biologist, Spreading scientific researcher, Biology teacher and Backend d
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💬 Ask me about enviromental issues, astronomy or marine animals
 - 😄 Fav foods to send me: Bolo de rolo, pizza com muito cheddar, bolo de cenoura com chocolate
-- :music: Fav song of the week: Corpo e canção de Letícia Fialho e Orquestra da Rua
+- :notes: Fav song of the week: Sol na cara (O leme que te guia) de Guilé
 
 ## You can also found me here:
 
