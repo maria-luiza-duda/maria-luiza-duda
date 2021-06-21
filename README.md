@@ -3,10 +3,10 @@
 Marine biologist, Spreading scientific researcher, Biology teacher and Backend developer. 
 
 - 🔭 I’m currently working on Open Scientia project (check on my repositories)
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning about DevOps
 - 💬 Ask me about enviromental issues, astronomy or marine animals
 - 😄 Fav foods to send me: Bolo de rolo, pizza com muito cheddar, bolo de cenoura com chocolate
-- :notes: Fav song of the week: Sol na cara (O leme que te guia) de Guilé
+- :notes: Fav song of the week: New Life - Lovkn
 
 ## You can also found me here:
 
