@@ -1,6 +1,6 @@
-### Hey, I'm Malu Duda and you? 👋
+### Hello, folks 👋
 
-Marine biologist, Spreading scientific researcher, Biology teacher and Backend developer. 
+I'm marine biologist, spreading scientific researcher, biology teacher and backend developer. 
 
 - 🔭 I’m currently working on Open Scientia project (check on my repositories)
 - 🌱 I’m currently learning about DevOps
