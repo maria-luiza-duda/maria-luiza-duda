@@ -6,7 +6,7 @@ Marine biologist, Spreading scientific researcher, Biology teacher and Backend d
 - 🌱 I’m currently learning about DevOps
 - 💬 Ask me about enviromental issues, astronomy or marine animals
 - 😄 Fav foods to send me: Bolo de rolo, pizza com muito cheddar, bolo de cenoura com chocolate
-- :notes: Fav song of the week: New Life - Lovkn
+- :notes: Fav song of the week: Luz na Escuridão - Pedros
 
 ## You can also found me here:
 
