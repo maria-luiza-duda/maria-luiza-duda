@@ -1,6 +1,6 @@
 ### Hello, folks 👋
 
-I'm a DevOps Engineer, biologist, MSc in Oceanography and Ph.D student in Computer Science. 
+I'm a DevOps Engineer, Ph.D student in Computer Science, MSc in Oceanography and Biologist.
 
 - 🔭 I’m currently working on my Doctoral's thesis
 - 🌱 I’m currently learning about MLOps
@@ -9,6 +9,10 @@ I'm a DevOps Engineer, biologist, MSc in Oceanography and Ph.D student in Comput
 ## You can also found me here:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/maria-luiza-duda)](https://github.com/maria-luiza-duda) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-duda/)](https://www.linkedin.com/in/maria-luiza-duda/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marialuizaduda00@gmail.com)](mailto:marialuizaduda00@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/malududafran)](https://www.instagram.com/malududafran)
+
+## Check my stats here on GitHub:
+
+[![maria-luiza-duda's github stats](https://github-readme-stats.vercel.app/api?username=maria-luiza-duda&show_icons=true&theme=onedark)](https://github.com/maria-luiza-duda/maria-luiza-duda) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-luiza-duda&layout=compact&theme=onedark)](https://github.com/maria-luiza-duda/maria-luiza-duda)
 
 ## Some of my skills:
 
@@ -45,9 +49,3 @@ I'm a DevOps Engineer, biologist, MSc in Oceanography and Ph.D student in Comput
 
 ### Learning tools
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-## Check my stats here on GitHub:
-
-[![maria-luiza-duda's github stats](https://github-readme-stats.vercel.app/api?username=maria-luiza-duda&show_icons=true&theme=onedark)](https://github.com/maria-luiza-duda/maria-luiza-duda) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-luiza-duda&layout=compact&theme=onedark)](https://github.com/maria-luiza-duda/maria-luiza-duda)
-
-
